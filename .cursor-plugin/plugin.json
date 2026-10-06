@@ -1,0 +1,9 @@
+{
+  "name": "aws-local-mcp",
+  "description": "Run any AWS CLI command locally with full SSO profile support. No Cursor restarts needed — switch between all your AWS accounts on the fly using --profile.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Rahul Kushwaha"
+  },
+  "tags": ["aws", "cloud", "cli", "sso", "devops"]
+}
